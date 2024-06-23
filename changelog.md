@@ -1,1 +1,0 @@
- 1.0 --- 🤖CHANGELOG🎶- Radical improvements implemented to the display (+30 nits, 240 fps visual and improved HDR),Camera, enhanced AI processing activated, improved depth and pressure of shots,The scheduler has been further improved, Improved deeper and more powerful audio with better quality, minor script changes to make everything more stable💍.
